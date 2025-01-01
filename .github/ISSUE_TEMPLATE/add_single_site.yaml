@@ -1,0 +1,28 @@
+name: Add single website
+description: Add a website or page to the blocklist
+title: "Add site: {{ site }}"
+labels: ["add site"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing to the AI blocklist!
+        
+        Before submitting an issue, please
+        [search the repository](https://github.com/search?q=repo%3Alaylavish%2FuBlockOrigin-HUGE-AI-Blocklist%20&type=code)
+        and check if someone already submitted your site
+  - type: input
+    id: site
+    attributes:
+      label: Website or page to add
+      description: If you're adding more than one site, please use the "Add multiple websites" form
+      placeholder: ai.example.com
+    validations:
+      required: true
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: Additional information
+      placeholder: This site...
+    validations:
+      required: false
