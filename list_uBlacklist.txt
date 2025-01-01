@@ -345,6 +345,8 @@ homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?thedream\.ai(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?viggle\.ai(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?llamagen\.ai(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?supermeme\.ai(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?rusher\.ai(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?chatbot\.com(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?aicreate\.com(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?appypie\.com(\/.*)?$/
@@ -625,6 +627,7 @@ homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?sora\.com(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?drawever\.com(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?cloe\.bytebeacon\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?ai\-meme\.com(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?imagine\.art(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?jasper\.art(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?artgeneratorai\.art(\/.*)?$/
@@ -723,6 +726,10 @@ homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?lunai\.art(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?pictab\.art(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?aiphotos123\.art(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?nightcafe\.art(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?a1\.art(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?nex\.art(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?mcvalor\.art(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?huggingface\.co(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?clipdrop\.co(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?postalai\.co(\/.*)?$/

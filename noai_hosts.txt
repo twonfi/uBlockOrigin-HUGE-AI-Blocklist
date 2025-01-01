@@ -668,6 +668,10 @@
 0.0.0.0 www.viggle.ai
 0.0.0.0 llamagen.ai
 0.0.0.0 www.llamagen.ai
+0.0.0.0 supermeme.ai
+0.0.0.0 www.supermeme.ai
+0.0.0.0 rusher.ai
+0.0.0.0 www.rusher.ai
 0.0.0.0 chatbot.com
 0.0.0.0 www.chatbot.com
 0.0.0.0 aicreate.com
@@ -1228,6 +1232,8 @@
 0.0.0.0 www.drawever.com
 0.0.0.0 cloe.bytebeacon.com
 0.0.0.0 www.cloe.bytebeacon.com
+0.0.0.0 ai-meme.com
+0.0.0.0 www.ai-meme.com
 0.0.0.0 imagine.art
 0.0.0.0 www.imagine.art
 0.0.0.0 jasper.art
@@ -1424,6 +1430,14 @@
 0.0.0.0 www.pictab.art
 0.0.0.0 aiphotos123.art
 0.0.0.0 www.aiphotos123.art
+0.0.0.0 nightcafe.art
+0.0.0.0 www.nightcafe.art
+0.0.0.0 a1.art
+0.0.0.0 www.a1.art
+0.0.0.0 nex.art
+0.0.0.0 www.nex.art
+0.0.0.0 mcvalor.art
+0.0.0.0 www.mcvalor.art
 0.0.0.0 huggingface.co
 0.0.0.0 www.huggingface.co
 0.0.0.0 clipdrop.co
