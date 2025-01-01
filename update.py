@@ -67,10 +67,11 @@ def go(name: str, src: str, head_footers: str, ubo_fn: str, ubl_fn: str,
     ubo = with_open(f'sources/headers/{head_footers}ubo.txt') + '\n'
 
     for item in chain(domains, urls):
+        item = escape(item).replace('/', r'\/').replace(
+            '\\ \\^\\ ', '[a-z0-9-]+').replace('\\ \\*\\ ', '.*')
         ubo += (r'google.com,duckduckgo.com,bing.com##a:matches-prop'
                 r'(href=/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?'
-                f'{escape(item).replace('/', r'\/')}'
-                r'(\/.*)?$/):upward(div):style(opacity:0.00!important;)'
+                rf'{item}(\/.*)?$/):upward(div):style(opacity:0.00!important;)'
                 '\n')
 
     ubo += with_open(f'sources/footers/{head_footers}ubo.txt')
@@ -78,12 +79,13 @@ def go(name: str, src: str, head_footers: str, ubo_fn: str, ubl_fn: str,
     print('Wrote uBlock Origin file')
 
 
-    # Generate uBlacklist file
+    # Generate uBlacklist (uBl) file
     ubl = with_open(f'sources/headers/{head_footers}ublacklist.txt') + '\n'
     for item in chain(domains, urls):
+        item = escape(item).replace('/', r'\/').replace(
+            '\\ \\^\\ ', '[a-z0-9-]+').replace('\\ \\*\\ ', '.*')
         ubl += (r'/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?'
-                f'{escape(item).replace('/', r'\/')}'
-                r'(\/.*)?$/'
+                rf'{item}(\/.*)?$/'
                 '\n')
 
     ubl += with_open(f'sources/footers/{head_footers}ublacklist.txt')

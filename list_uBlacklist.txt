@@ -1058,6 +1058,9 @@ homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?aipicasso\.studio\.site(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?giotto\.streamlit\.app(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?acrylic\.typedream\.app(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?aipicasso\.studio\.site(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?giotto\.streamlit\.app(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?acrylic\.typedream\.app(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?boddeswasusi\.github\.io(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?linuxcapable\.com(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?stl24\.com(\/.*)?$/
@@ -1100,7 +1103,10 @@ homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?freepik\.com\/premium\-ai\-image(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?freepik\.com\/ai(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?adobe\.com\/products\/firefly(\/.*)?$/
-/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?adobe\.com\/\ \*\ \/products\/firefly(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?adobe\.com\/.*\/products\/firefly(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?canva\.com\/ai\-art\-generator(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?picsart\.com\/ai\-image\-generator(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?cloe\.bytebeacon\.com\/@bb_ras(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?twitter\.com\/ew_corpse(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?x\.com\/ew_corpse(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?twitter\.com\/TimChia83(\/.*)?$/
@@ -1362,8 +1368,8 @@ homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?reddit\.com\/user\/TrickyPride(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?tumblr\.com\/dalle2(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?pixels\.com\/profiles\/lm2kone(\/.*)?$/
-/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?apps\.apple\.com\/\ \*\ \/app\/\-\/ai\-art\-generator\-hitpaw\/id6444304300(\/.*)?$/
-/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?apps\.apple\.com\/\ \*\ \/app\/\-\/pixai\-ai\-anime\-art\-generator\/id6474528911(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?apps\.apple\.com\/.*\/app\/.*\/ai\-art\-generator\-hitpaw\/id6444304300(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?apps\.apple\.com\/.*\/app\/.*\/pixai\-ai\-anime\-art\-generator\/id6474528911(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?play\.google\.com\/store\/apps\/details\?id=com\.sola\.anime\.ai\.generator(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?play\.google\.com\/store\/apps\/details\?id=com\.vyroai\.animeart(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?play\.google\.com\/store\/apps\/details\?id=ai\.art\.anime(\/.*)?$/
@@ -1575,27 +1581,27 @@ homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?pinterest\.com\/pin\/idleturtle85\-a\-very\-cute\-baby\-peacock\-\-482518547589787278(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?pinterest\.com\/pin\/reference\-\-13088655160761671(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?stock\.adobe\.com\/images\/abstract\-painting\-about\-anime\-girl\-with\-close\-up\-view\-at\-the\-face\-splash\-colour\-art\-portrait\-of\-anime\-girl\-digital\-art\-style\-illustration\-painting\-generative\-ai(\/.*)?$/
-/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?stock\.adobe\.com\/\ \*\ \/images\/abstract\-painting\-about\-anime\-girl\-with\-close\-up\-view\-at\-the\-face\-splash\-colour\-art\-portrait\-of\-anime\-girl\-digital\-art\-style\-illustration\-painting\-generative\-ai(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?stock\.adobe\.com\/.*\/images\/abstract\-painting\-about\-anime\-girl\-with\-close\-up\-view\-at\-the\-face\-splash\-colour\-art\-portrait\-of\-anime\-girl\-digital\-art\-style\-illustration\-painting\-generative\-ai(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?instagram\.com\/quran_makes_me_smile\/p\/CsRO1YpPCAX(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?instagram\.com\/launchdsigns\/p\/Ctg9hxcA6Lj(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?instagram\.com\/percipietro\/p\/DAhljhFOZU8(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?pixels\.com\/featured\/beautiful\-chinese\-dragon\-lmzkone\-narciso\-marlene(\/.*)?$/
-/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.\ \*\ \/\ \*\ \/dp\/B0C47SW6NT(\/.*)?$/
-/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.\ \*\ \/\ \*\ \/dp\/B0CVTYD34P(\/.*)?$/
-/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.\ \*\ \/\ \*\ \/dp\/B0CVVJQP39(\/.*)?$/
-/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.\ \*\ \/\ \*\ \/dp\/B0CVHLGJS8(\/.*)?$/
-/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.\ \*\ \/\ \*\ \/dp\/B0CV43GKGZ(\/.*)?$/
-/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.\ \*\ \/\ \*\ \/dp\/B0CVLFSSGC(\/.*)?$/
-/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.\ \*\ \/\ \*\ \/dp\/B0C9S8W4PW(\/.*)?$/
-/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.\ \*\ \/\ \*\ \/dp\/B0C8R9DD5J(\/.*)?$/
-/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.\ \*\ \/\ \*\ \/dp\/B0CZP35QWQ(\/.*)?$/
-/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.\ \*\ \/\ \*\ \/dp\/B0C79NPRKT(\/.*)?$/
-/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.\ \*\ \/\ \*\ \/dp\/B0C8QXCZSD(\/.*)?$/
-/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.\ \*\ \/\ \*\ \/dp\/B0CMSDFXKS(\/.*)?$/
-/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.\ \*\ \/\ \*\ \/dp\/B0C91XFRLH(\/.*)?$/
-/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.\ \*\ \/\ \*\ \/dp\/B0CCCMZXQG(\/.*)?$/
-/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.\ \*\ \/\ \*\ \/dp\/B0CMCKC5GM(\/.*)?$/
-/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.\ \*\ \/\ \*\ \/dp\/B0C7NL912Q(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.[a-z0-9-]+\/.*\/dp\/B0C47SW6NT(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.[a-z0-9-]+\/.*\/dp\/B0CVTYD34P(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.[a-z0-9-]+\/.*\/dp\/B0CVVJQP39(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.[a-z0-9-]+\/.*\/dp\/B0CVHLGJS8(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.[a-z0-9-]+\/.*\/dp\/B0CV43GKGZ(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.[a-z0-9-]+\/.*\/dp\/B0CVLFSSGC(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.[a-z0-9-]+\/.*\/dp\/B0C9S8W4PW(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.[a-z0-9-]+\/.*\/dp\/B0C8R9DD5J(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.[a-z0-9-]+\/.*\/dp\/B0CZP35QWQ(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.[a-z0-9-]+\/.*\/dp\/B0C79NPRKT(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.[a-z0-9-]+\/.*\/dp\/B0C8QXCZSD(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.[a-z0-9-]+\/.*\/dp\/B0CMSDFXKS(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.[a-z0-9-]+\/.*\/dp\/B0C91XFRLH(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.[a-z0-9-]+\/.*\/dp\/B0CCCMZXQG(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.[a-z0-9-]+\/.*\/dp\/B0CMCKC5GM(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?amazon\.[a-z0-9-]+\/.*\/dp\/B0C7NL912Q(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?behance\.net\/gallery\/209291699(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?behance\.net\/gallery\/208813917(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?behance\.net\/gallery\/209354857(\/.*)?$/

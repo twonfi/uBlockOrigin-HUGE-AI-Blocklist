@@ -1682,7 +1682,7 @@ _site.instagram:percipietro/p/DAhljhFOZU8
 _site.pixels:featured/beautiful-chinese-dragon-lmzkone-narciso-marlene
 
 # Amazon
-#!amazon. * / * /dp/{{ : }}
+#!amazon. ^ / * /dp/{{ : }}
 # note: only enter the product ID (the string after "/dp/")
 _item.amazon.dp:B0C47SW6NT
 _item.amazon.dp:B0CVTYD34P

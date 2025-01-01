@@ -24,7 +24,7 @@
   "_user.tumblr": ["tumblr.com/ : ", " : .tumblr.com"],
   "_user.pixels": ["pixels.com/profiles/ : "],
 
-  "_item.app-store.app": ["apps.apple.com/ * /app/-/ : "],
+  "_item.app-store.app": ["apps.apple.com/ * /app/ * / : "],
   "_item.google-play.app": ["play.google.com/store/apps/details?id= : "],
   "_item.reddit.r": ["reddit.com/r/ : "],
   "_item.artstation.a": ["artstation.com/artwork/ : "],
@@ -32,6 +32,6 @@
   "_item.etsy.l": ["etsy.com/listing/ : "],
   "_item.pinterest.p": ["pinterest.com/pin/ : "],
   "_item.adobe-stock.img": ["stock.adobe.com/images/ : ", "stock.adobe.com/ * /images/ : "],
-  "_item.amazon.dp": ["amazon. * / * /dp/ : "],
+  "_item.amazon.dp": ["amazon. ^ / * /dp/ : "],
   "_item.behance.gallery": ["behance.net/gallery/ : "]
 }
