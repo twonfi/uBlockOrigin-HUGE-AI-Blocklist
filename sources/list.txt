@@ -1092,7 +1092,19 @@ ai-nudes.ai
 undress.xxx
 girlfriend.ai
 
-# AI projects on non-AI-focused sites
+# AI projects hosted on other sites
+aipicasso.studio.site
+giotto.streamlit.app
+acrylic.typedream.app
+
+# Sites with AI URL paths (AI content or services)
+freepik.com/premium-ai-image
+freepik.com/ai
+adobe.com/products/firefly
+adobe.com/ * /products/firefly
+canva.com/ai-art-generator
+picsart.com/ai-image-generator
+cloe.bytebeacon.com/@bb_ras
 aipicasso.studio.site
 giotto.streamlit.app
 acrylic.typedream.app
@@ -1114,12 +1126,6 @@ dinosaur.org
 disciplines.ng
 nucleovisual.com
 fullbloomclub.net
-
-# Sites with AI URL paths (AI content or services)
-freepik.com/premium-ai-image
-freepik.com/ai
-adobe.com/products/firefly
-adobe.com/ * /products/firefly
 
 # Crypto/NFT/blockchain (flooded with AI by now)
 cryptoart.io
