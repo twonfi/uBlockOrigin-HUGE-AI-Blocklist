@@ -1,0 +1,25 @@
+name: Update platform-dependent lists from source list
+
+on: push
+
+permissions:
+  contents: write
+
+jobs:
+  script:
+    name: Run update script
+    runs-on: ubuntu-latest
+    if: ${{ github.event.pusher.name != 'github-actions[bot]' }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run script
+        working-directory: ./
+        run: python3 update.py
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update lists"
+          git push
+
+
