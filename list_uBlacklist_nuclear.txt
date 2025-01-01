@@ -1,64 +1,77 @@
-# //// Going NUCLEAR!!! (sites that have a lot of AI "art"/heavily support AI "art", but also have some authentic artwork;)
+---
+name: NUCLEAR AI Blocklist
+description: A blocklist of sites that contain a mix of both AI-generated content and authentic imagery for uBlock Origin, [uBlacklist], and in the hosts format for Pi-hole/AdGuard. Intended for use with the original Huge AI Blocklist.
+homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
+---
+# Generated from the source file on GitHub: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/tree/main/sources
+#
+# GitHub: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
+# Issues: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/issues
+# PRs: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/pulls
+# Feel free to fork and submit pr's if you find more sites
+#
+# HAPPY PRIDE MONTH
+#
+# Please support authentic artists! Whether it be commissions or donations, an amount of any size helps!
+#
+# (!) GOING NUCLEAR (!) #
+# This list contains sites that have lots of, or heavily support, AI "art," but does have authentic artworks
+# Doesn't include AI-only sites (this list should be used with the regular Huge AI Blocklist)
 
-*://*.stock.adobe.com/*
-*://*.designbundles.net/*
-*://*.freepixel.com/*
-*://*.artmajeur.com/*
-*://*.artpal.com/*
-*://*.freepik.com/*
-*://*.freepik.es/*
-*://*.shutterstock.com/*
-*://*.pixtastock.com/*
-*://*.redbubble.com/*
-*://*.3tdesign.edu.vn/*
-*://*.artstation.com/*
-*://*.deviantart.com/*
-*://*.alamy.com/*
-*://*.vecteezy.com/*
-*://*.pixabay.com/*
-*://*.dreamstime.com/*
-*://*.pngtree.com/*
-*://*.peakpx.com.com/*
-*://*.lunarmimi.net/*
-*://*.displate.com/*
-*://*.inprnt.com/*
-*://*.europosters.eu/*
-*://*.etsy.com/*
-*://*.123rf.com/*
-*://*.creativefabrica.com/*
-*://*.vanasplus.com/*
-*://*.downgraf.com/*
-*://*.uxdesign.cc/*
-*://*.geekysweetie.com/*
-*://*.medium.com/*
-*://*.imgchest.com/*
-*://*.pixels.com/*
-*://*.gettywallpapers.com/*
-*://*.abposters.com/*
-*://*.posterlounge.com/*
-*://*.uhdpaper.com/*
-*://*.wallhere.com/*
-*://*.thehungryjpeg.com/*
-*://*.thirstymag.com/*
-*://*.kemono.su/*
-*://*.kemono.party/*
-*://*.alphacoders.com/*
-*://*.rollingpress.co.ke/*
-
-# // Content Aggregators/SEO spam
-*://*.tnhelearning.edu.vn/*
-
-# // Things that use Anthropic, Open AI, etc api/backend/models, but its usage is abnormal to that of gAI image or chat models
-*://*.talpasearch.com/*
-
-# //// Subreddits
-*://*.reddit.com/r/CatgirlSFW/*
-*://*.reddit.com/r/MildFemboys/*
-*://*.reddit.com/r/100Kanojo/*
-
-# //// Pinterest
-*://*.pinterest.com/*
-*://*.pinterest.com/Sereneshell/*
-
-# //// Alternate App Stores
-*://*.cafebazaar.ir/*
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?stock\.adobe\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?designbundles\.net(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?freepixel\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?artmajeur\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?artpal\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?freepik\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?freepik\.es(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?shutterstock\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?pixtastock\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?redbubble\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?3tdesign\.edu\.vn(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?artstation\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?deviantart\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?alamy\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?vecteezy\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?pixabay\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?dreamstime\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?pngtree\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?peakpx\.com\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?lunarmimi\.net(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?displate\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?inprnt\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?europosters\.eu(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?pinterest\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?etsy\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?123rf\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?creativefabrica\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?vanasplus\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?downgraf\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?pinterest\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?uxdesign\.cc(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?geekysweetie\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?medium\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?imgchest\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?pixels\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?gettywallpapers\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?abposters\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?posterlounge\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?uhdpaper\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?wallhere\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?thehungryjpeg\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?thirstymag\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?kemono\.su(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?kemono\.party(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?alphacoders\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?rollingpress\.co\.ke(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?tnhelearning\.edu\.vn(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?talpasearch\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?100Kanojo(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?pinterest\.com(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?cafebazaar\.ir(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?pinterest\.com\/Sereneshell(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?reddit\.com\/r\/100Kanojo(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?gachax\.com\/anime(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?reddit\.com\/r\/CatgirlSFW(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?reddit\.com\/r\/MildFemboys(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?pinterest\.com\/Sereneshell(\/.*)?$/

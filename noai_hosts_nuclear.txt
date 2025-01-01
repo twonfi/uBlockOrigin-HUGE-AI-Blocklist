@@ -1,0 +1,116 @@
+# NUCLEAR AI Blocklist
+# A blocklist of sites that contain a mix of both AI-generated content and authentic imagery for uBlock Origin, uBlacklist, and in the [hosts] format for Pi-hole/AdGuard. Intended for use with the original Huge AI Blocklist.
+#
+# GitHub: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
+# Issues: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/issues
+# PRs: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/pulls
+# Feel free to fork and submit pr's if you find more sites
+#
+# Generated from the source file on GitHub: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/tree/main/sources
+#
+# (!) GOING NUCLEAR (!) #
+# This list contains sites that have lots of, or heavily support, AI "art," but does have authentic artworks
+# Doesn't include AI-only sites (this list should be used with the regular Huge AI Blocklist)
+
+0.0.0.0 stock.adobe.com
+0.0.0.0 www.stock.adobe.com
+0.0.0.0 designbundles.net
+0.0.0.0 www.designbundles.net
+0.0.0.0 freepixel.com
+0.0.0.0 www.freepixel.com
+0.0.0.0 artmajeur.com
+0.0.0.0 www.artmajeur.com
+0.0.0.0 artpal.com
+0.0.0.0 www.artpal.com
+0.0.0.0 freepik.com
+0.0.0.0 www.freepik.com
+0.0.0.0 freepik.es
+0.0.0.0 www.freepik.es
+0.0.0.0 shutterstock.com
+0.0.0.0 www.shutterstock.com
+0.0.0.0 pixtastock.com
+0.0.0.0 www.pixtastock.com
+0.0.0.0 redbubble.com
+0.0.0.0 www.redbubble.com
+0.0.0.0 3tdesign.edu.vn
+0.0.0.0 www.3tdesign.edu.vn
+0.0.0.0 artstation.com
+0.0.0.0 www.artstation.com
+0.0.0.0 deviantart.com
+0.0.0.0 www.deviantart.com
+0.0.0.0 alamy.com
+0.0.0.0 www.alamy.com
+0.0.0.0 vecteezy.com
+0.0.0.0 www.vecteezy.com
+0.0.0.0 pixabay.com
+0.0.0.0 www.pixabay.com
+0.0.0.0 dreamstime.com
+0.0.0.0 www.dreamstime.com
+0.0.0.0 pngtree.com
+0.0.0.0 www.pngtree.com
+0.0.0.0 peakpx.com.com
+0.0.0.0 www.peakpx.com.com
+0.0.0.0 lunarmimi.net
+0.0.0.0 www.lunarmimi.net
+0.0.0.0 displate.com
+0.0.0.0 www.displate.com
+0.0.0.0 inprnt.com
+0.0.0.0 www.inprnt.com
+0.0.0.0 europosters.eu
+0.0.0.0 www.europosters.eu
+0.0.0.0 pinterest.com
+0.0.0.0 www.pinterest.com
+0.0.0.0 etsy.com
+0.0.0.0 www.etsy.com
+0.0.0.0 123rf.com
+0.0.0.0 www.123rf.com
+0.0.0.0 creativefabrica.com
+0.0.0.0 www.creativefabrica.com
+0.0.0.0 vanasplus.com
+0.0.0.0 www.vanasplus.com
+0.0.0.0 downgraf.com
+0.0.0.0 www.downgraf.com
+0.0.0.0 pinterest.com
+0.0.0.0 www.pinterest.com
+0.0.0.0 uxdesign.cc
+0.0.0.0 www.uxdesign.cc
+0.0.0.0 geekysweetie.com
+0.0.0.0 www.geekysweetie.com
+0.0.0.0 medium.com
+0.0.0.0 www.medium.com
+0.0.0.0 imgchest.com
+0.0.0.0 www.imgchest.com
+0.0.0.0 pixels.com
+0.0.0.0 www.pixels.com
+0.0.0.0 gettywallpapers.com
+0.0.0.0 www.gettywallpapers.com
+0.0.0.0 abposters.com
+0.0.0.0 www.abposters.com
+0.0.0.0 posterlounge.com
+0.0.0.0 www.posterlounge.com
+0.0.0.0 uhdpaper.com
+0.0.0.0 www.uhdpaper.com
+0.0.0.0 wallhere.com
+0.0.0.0 www.wallhere.com
+0.0.0.0 thehungryjpeg.com
+0.0.0.0 www.thehungryjpeg.com
+0.0.0.0 thirstymag.com
+0.0.0.0 www.thirstymag.com
+0.0.0.0 kemono.su
+0.0.0.0 www.kemono.su
+0.0.0.0 kemono.party
+0.0.0.0 www.kemono.party
+0.0.0.0 alphacoders.com
+0.0.0.0 www.alphacoders.com
+0.0.0.0 rollingpress.co.ke
+0.0.0.0 www.rollingpress.co.ke
+0.0.0.0 tnhelearning.edu.vn
+0.0.0.0 www.tnhelearning.edu.vn
+0.0.0.0 talpasearch.com
+0.0.0.0 www.talpasearch.com
+0.0.0.0 100Kanojo
+0.0.0.0 www.100Kanojo
+0.0.0.0 pinterest.com
+0.0.0.0 www.pinterest.com
+0.0.0.0 cafebazaar.ir
+0.0.0.0 www.cafebazaar.ir

@@ -1,0 +1,20 @@
+! Title: Huge AI Blocklist
+! Expires: 1 day
+! Description: A huge blocklist of sites that contain AI-generated content for [uBlock Origin], uBlacklist, and in the hosts format for Pi-hole/AdGuard.
+! Homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
+!
+! Generated from the source file on GitHub: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/tree/main/sources
+!
+! Issues: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/issues
+! PRs: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/pulls
+! Feel free to fork and submit pr's if you find more sites
+
+! HAPPY PRIDE MONTH
+
+! Please support authentic artists! Whether it be commissions or donations, an amount of any size helps!
+
+! I love you.
+! You are valid.
+! LGBTQ+ Rights!
+! Keep your chin up--we will get through this together <33
+! Have a happy day!

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema",
+  "title": "Shortcut list",
+  "type": "object",
+  "properties": {"/": {}},
+  "patternProperties": {
+    "^_[a-z0-9-_.]+$": {
+      "type": "array",
+      "description": "List of URLs to expand the shortcut key into"
+    }
+  },
+  "additionalProperties": false
+}

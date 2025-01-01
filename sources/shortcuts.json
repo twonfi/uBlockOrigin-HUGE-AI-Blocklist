@@ -1,0 +1,37 @@
+{
+  "_": [" : "],
+
+  "_site.twitter": ["twitter.com/ : ", "x.com/ : "],
+  "_site.instagram": ["instagram.com/ : "],
+  "_site.pinterest": ["pinterest.com/ : "],
+  "_site.behance": ["behance.net/ : "],
+  "_site.ko-fi": ["ko-fi.com/ : "],
+  "_site.deviantart": ["deviantart.com/ : "],
+  "_site.artstation": ["artstation.com/ : "],
+  "_site.facebook": ["facebook.com/ : "],
+  "_site.s-id": ["s.id/ : "],
+  "_site.pixels": ["pixels.com/ : "],
+  "_site.fiverr": ["fiverr.com/ : "],
+
+  "_user.youtube.uc": ["youtube.com/channel/ : "],
+  "_user.youtube.at": ["youtube.com/@ : "],
+  "_user.youtube.custom": ["youtube.com/c/ : "],
+  "_user.youtube.legacy": ["youtube.com/user/ : "],
+  "_user.tiktok": ["tiktok.com/@ : "],
+  "_user.freepik": ["freepik.com/author/ : "],
+  "_user.medium": ["medium.com/@ : "],
+  "_user.reddit": ["reddit.com/user/ : "],
+  "_user.tumblr": ["tumblr.com/ : ", " : .tumblr.com"],
+  "_user.pixels": ["pixels.com/profiles/ : "],
+
+  "_item.app-store.app": ["apps.apple.com/ * /app/-/ : "],
+  "_item.google-play.app": ["play.google.com/store/apps/details?id= : "],
+  "_item.reddit.r": ["reddit.com/r/ : "],
+  "_item.artstation.a": ["artstation.com/artwork/ : "],
+  "_item.ko-fi.s": ["ko-fi.com/s/ : "],
+  "_item.etsy.l": ["etsy.com/listing/ : "],
+  "_item.pinterest.p": ["pinterest.com/pin/ : "],
+  "_item.adobe-stock.img": ["stock.adobe.com/images/ : ", "stock.adobe.com/ * /images/ : "],
+  "_item.amazon.dp": ["amazon. * / * /dp/ : "],
+  "_item.behance.gallery": ["behance.net/gallery/ : "]
+}

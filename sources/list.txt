@@ -10,7 +10,7 @@
 #   #: comments
 #   _: shortcuts (hosts/Pi-hole/AdGuard excluded)
 #   Other without a / is a domain name (hosts/Pi-hole/AdGuard included)
-#   Other with a / is a path (hosts/Pi-hole/AdGuard included)
+#   Other with a / is a URL (hosts/Pi-hole/AdGuard included)
 #
 # HAPPY PRIDE MONTH
 #
@@ -563,7 +563,7 @@ runwayml.com
 simplified.com
 soundful.com
 trustingeeks.com
-.udio.com
+udio.com
 vanceai.com
 virtulook.wondershare.com
 wellsaidlabs.com
@@ -644,6 +644,7 @@ aistickr.com
 sora.com
 drawever.com
 smiletemplates.com/search/images
+cloe.bytebeacon.com
 
 # TLD: .art
 imagine.art
@@ -891,8 +892,7 @@ invideo.io
 laive.io
 media.io
 musicfy.lol
-#/play.ht
-#.play.ht
+play.ht
 prompt.quel.jp
 rizzgpt.app
 soundraw.io
@@ -930,6 +930,7 @@ idyllic.app
 linuxconfig.org
 stablediffusion.blog
 distinctplugins.io
+chat-gpt.photos
 
 # "Nudify" sites (a.k.a. DeepNude)/deepfake/porn (gross, shouldn't this be illegal‽)
 sukebezone.com
@@ -1084,6 +1085,10 @@ ai-nudes.ai
 undress.xxx
 girlfriend.ai
 
+# AI projects on non-AI-focused sites
+aipicasso.studio.site
+giotto.streamlit.app
+acrylic.typedream.app
 
 # Content farms
 boddeswasusi.github.io
@@ -1092,7 +1097,7 @@ stl24.com
 outsourceit.today
 metaroids.com
 90creators.com
-gachax.com/anime
+gachax.com
 ocfchess.org
 onexception.dev
 maroonchess.com
@@ -1103,13 +1108,11 @@ disciplines.ng
 nucleovisual.com
 fullbloomclub.net
 
-
 # Sites with AI URL paths (AI content or services)
 freepik.com/premium-ai-image
 freepik.com/ai
 adobe.com/products/firefly
-adobe.com/us/products/firefly  # TODO: region
-
+adobe.com/ * /products/firefly
 
 # Crypto/NFT/blockchain (flooded with AI by now)
 cryptoart.io
@@ -1252,7 +1255,7 @@ _site.instagram:hellocivitai
 _site.instagram:wand.official
 
 # Pinterest
-#!pinterest/{{ : }}
+#!pinterest.com/{{ : }}
 # note: uses base URL (_site:)
 _site.pinterest:warking999999
 _site.pinterest:racingtff
@@ -1412,8 +1415,8 @@ _user.pixels:lm2kone
 ### _item: Specific content ###
 
 # Apple App Store
-#!apps.apple.com/*/app/-/{{ : }}
-# TODO: *: support non-US region sites
+#!apps.apple.com/ * /app/-/{{ : }}
+# TODO:  * : support non-US region sites
 _item.app-store.app:ai-art-generator-hitpaw/id6444304300
 _item.app-store.app:pixai-ai-anime-art-generator/id6474528911
 
@@ -1630,12 +1633,12 @@ _item.ko-fi.s:26646f3ac9
 _item.ko-fi.s:af9a23d375
 
 # Etsy
-#!etsy.com/listing/*
+#!etsy.com/listing/{{ : }}
 _item.etsy.l:1458059429
 _item.etsy.l:1368236844
 
 # Pinterest
-#!pinterest.com/pin/*
+#!pinterest.com/pin/{{ : }}
 _item.pinterest.p:428053139600411583
 _item.pinterest.p:143130094401282814
 _item.pinterest.p:1041879695027157288
@@ -1648,9 +1651,9 @@ _item.pinterest.p:idleturtle85-a-very-cute-baby-peacock--482518547589787278
 _item.pinterest.p:reference--13088655160761671
 
 # Adobe Stock
-#stock.adobe.com/images/{{ : }}
-#stock.adobe.com/*/images/{{ : }}
-# TODO: *: region
+#!stock.adobe.com/images/{{ : }}
+#!stock.adobe.com/ * /images/{{ : }}
+# TODO:  * : region
 _item.adobe-stock.img:abstract-painting-about-anime-girl-with-close-up-view-at-the-face-splash-colour-art-portrait-of-anime-girl-digital-art-style-illustration-painting-generative-ai
 
 # Instagram
@@ -1666,7 +1669,7 @@ _site.instagram:percipietro/p/DAhljhFOZU8
 _site.pixels:featured/beautiful-chinese-dragon-lmzkone-narciso-marlene
 
 # Amazon
-#!amazon.*/*/dp/{{ : }}
+#!amazon. * / * /dp/{{ : }}
 # note: only enter the product ID (the string after "/dp/")
 _item.amazon.dp:B0C47SW6NT
 _item.amazon.dp:B0CVTYD34P

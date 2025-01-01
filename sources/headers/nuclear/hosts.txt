@@ -1,0 +1,13 @@
+# NUCLEAR AI Blocklist
+# A blocklist of sites that contain a mix of both AI-generated content and authentic imagery for uBlock Origin, uBlacklist, and in the [hosts] format for Pi-hole/AdGuard. Intended for use with the original Huge AI Blocklist.
+#
+# GitHub: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
+# Issues: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/issues
+# PRs: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/pulls
+# Feel free to fork and submit pr's if you find more sites
+#
+# Generated from the source file on GitHub: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/tree/main/sources
+#
+# (!) GOING NUCLEAR (!) #
+# This list contains sites that have lots of, or heavily support, AI "art," but does have authentic artworks
+# Doesn't include AI-only sites (this list should be used with the regular Huge AI Blocklist)

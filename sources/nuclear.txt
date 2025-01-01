@@ -1,0 +1,82 @@
+# NUCLEAR AI Blocklist
+# A blocklist of sites that contain a mix of both AI-generated content and authentic imagery for uBlock Origin, uBlacklist, and in the hosts format for Pi-hole/AdGuard. Intended for use with the original Huge AI Blocklist.
+#
+# GitHub: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
+# Issues: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/issues
+# PRs: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/pulls
+# Feel free to fork and submit pr's if you find more sites
+#
+# Same syntax as the regular list
+#
+# (!) GOING NUCLEAR (!) #
+# This list contains sites that have lots of, or heavily support, AI "art," but does have authentic artworks
+# Doesn't include AI-only sites (this list should be used with the regular Huge AI Blocklist)
+
+### Sites containing a mix of AI and authentic imagery ###
+stock.adobe.com
+designbundles.net
+freepixel.com
+artmajeur.com
+artpal.com
+freepik.com
+freepik.es
+shutterstock.com
+pixtastock.com
+redbubble.com
+3tdesign.edu.vn
+artstation.com
+deviantart.com
+alamy.com
+vecteezy.com
+pixabay.com
+dreamstime.com
+pngtree.com
+peakpx.com.com
+lunarmimi.net
+displate.com
+inprnt.com
+europosters.eu
+pinterest.com
+etsy.com
+123rf.com
+creativefabrica.com
+vanasplus.com
+downgraf.com
+pinterest.com
+pinterest.com/Sereneshell
+uxdesign.cc
+geekysweetie.com
+reddit.com/r/100Kanojo
+medium.com
+imgchest.com
+pixels.com
+gachax.com/anime
+gettywallpapers.com
+abposters.com
+posterlounge.com
+uhdpaper.com
+wallhere.com
+thehungryjpeg.com
+thirstymag.com
+kemono.su
+kemono.party
+alphacoders.com
+rollingpress.co.ke
+
+### Content Aggregators/SEO spam ###
+tnhelearning.edu.vn
+
+### Sites that use AI models, but its usage is abnormal to that of gAI image or chat models ###
+talpasearch.com
+
+### Subreddits ###
+reddit.com/r/CatgirlSFW
+reddit.com/r/MildFemboys
+100Kanojo
+
+### Pinterest ###
+pinterest.com
+pinterest.com/Sereneshell
+
+### Alternate App Stores ###
+cafebazaar.ir
