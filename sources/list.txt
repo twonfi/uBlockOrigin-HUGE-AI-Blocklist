@@ -350,6 +350,8 @@ neoprompt.ai
 thedream.ai
 viggle.ai
 llamagen.ai
+supermeme.ai
+rusher.ai
 
 # TLD: .com
 chatbot.com
@@ -645,6 +647,7 @@ sora.com
 drawever.com
 smiletemplates.com/search/images
 cloe.bytebeacon.com
+ai-meme.com
 
 # TLD: .art
 imagine.art
@@ -745,6 +748,10 @@ liblib.art
 lunai.art
 pictab.art
 aiphotos123.art
+nightcafe.art
+a1.art
+nex.art
+mcvalor.art
 
 # TLD: .co
 huggingface.co
