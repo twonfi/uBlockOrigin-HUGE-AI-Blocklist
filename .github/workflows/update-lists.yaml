@@ -1,6 +1,10 @@
 name: Update platform-dependent lists from source list
 
-on: push
+on:
+  push:
+    paths:
+      - 'sources/**'
+      - 'update.py'
 
 permissions:
   contents: write
