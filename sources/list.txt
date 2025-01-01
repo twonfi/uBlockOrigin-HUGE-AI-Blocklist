@@ -352,6 +352,7 @@ viggle.ai
 llamagen.ai
 supermeme.ai
 rusher.ai
+writemail.ai
 
 # TLD: .com
 chatbot.com
