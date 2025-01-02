@@ -672,6 +672,8 @@
 0.0.0.0 www.supermeme.ai
 0.0.0.0 rusher.ai
 0.0.0.0 www.rusher.ai
+0.0.0.0 writemail.ai
+0.0.0.0 www.writemail.ai
 0.0.0.0 chatbot.com
 0.0.0.0 www.chatbot.com
 0.0.0.0 aicreate.com

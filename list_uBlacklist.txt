@@ -347,6 +347,7 @@ homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?llamagen\.ai(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?supermeme\.ai(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?rusher\.ai(\/.*)?$/
+/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?writemail\.ai(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?chatbot\.com(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?aicreate\.com(\/.*)?$/
 /^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?appypie\.com(\/.*)?$/

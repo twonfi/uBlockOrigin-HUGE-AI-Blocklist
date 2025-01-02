@@ -346,6 +346,7 @@ google.com,duckduckgo.com,bing.com##a:matches-prop(href=/^(((https?:)?)\/\/)?([a
 google.com,duckduckgo.com,bing.com##a:matches-prop(href=/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?llamagen\.ai(\/.*)?$/):upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a:matches-prop(href=/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?supermeme\.ai(\/.*)?$/):upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a:matches-prop(href=/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?rusher\.ai(\/.*)?$/):upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a:matches-prop(href=/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?writemail\.ai(\/.*)?$/):upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a:matches-prop(href=/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?chatbot\.com(\/.*)?$/):upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a:matches-prop(href=/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?aicreate\.com(\/.*)?$/):upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a:matches-prop(href=/^(((https?:)?)\/\/)?([a-z0-9-.]*\.)?appypie\.com(\/.*)?$/):upward(div):style(opacity:0.00!important;)
